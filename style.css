@@ -2,10 +2,12 @@
 font-family: "Helvetica", sans-serif;
 text-align: center;
 margin: 0;
+background-color: black;
 }
 
 .header {
 width: 100vw;
+background-color: white;
 border-bottom: 1px solid black;
 }
 
@@ -13,6 +15,7 @@ h3 {
 padding-bottom: 1rem;
 border-bottom: 1px solid black;
 width: 10vw;
+color: white;
 margin: auto;
 }
 
