@@ -12,6 +12,8 @@ margin: auto;
 
 .logo {
 width: 45vw;
+padding-bottom: 1rem;
+border-bottom: 1px solid black;
 }
 
 .house {
