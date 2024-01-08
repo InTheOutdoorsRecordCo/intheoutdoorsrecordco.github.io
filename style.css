@@ -26,6 +26,16 @@ border: none;
 background-color: white;
 }
 
+.artist {
+color: white;
+font-size: 18pt;
+text-decoration: none;
+}
+
+.artist:visited {
+color: purple;
+}
+
 .house {
 width: 54vw;
 }
