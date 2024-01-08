@@ -13,7 +13,7 @@ border-bottom: 1px solid black;
 
 h3 {
 padding-bottom: 1rem;
-border-bottom: 1px solid black;
+border-bottom: 1px solid white;
 width: 10vw;
 color: white;
 margin: auto;
@@ -22,6 +22,8 @@ margin: auto;
 .logo {
 width: 45vw;
 padding-bottom: 1rem;
+border: none;
+background-color: white;
 }
 
 .house {
