@@ -3,10 +3,10 @@ font-family: "Helvetica", sans-serif;
 text-align: center;
 }
 
-img {
-width: 20vw;
+.logo {
+width: 30vw;
 }
 
 .house {
-width: 30vw;
+width: 45vw;
 }
