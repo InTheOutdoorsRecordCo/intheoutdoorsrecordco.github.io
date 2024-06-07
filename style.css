@@ -36,6 +36,6 @@ text-decoration: none;
 color: purple;
 }
 
-.house, .magazine {
+#house, #magazine {
 width: 45vw;
 }
