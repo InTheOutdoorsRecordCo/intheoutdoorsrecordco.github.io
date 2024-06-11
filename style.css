@@ -39,3 +39,10 @@ color: purple;
 #house, #magazine {
 width: 45vw;
 }
+
+#essay {
+  color: snow;
+  width: 50vw;
+  padding: 2rem 0;
+  text-align: justify;
+}
