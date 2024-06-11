@@ -40,6 +40,11 @@ color: purple;
 width: 45vw;
 }
 
+.essay-wrapper {
+  width: 100%
+  text-align: center;
+}
+
 #essay {
   color: snow;
   width: 50vw;
