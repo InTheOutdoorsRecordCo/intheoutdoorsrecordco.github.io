@@ -42,10 +42,10 @@ width: 45vw;
 
 #essay {
   color: snow;
-  background-color: #777;
+  background-color: #555;
   width: 75vw;
   font-size: 18px;
-  padding: 2rem 0;
+  padding: 2rem;
   text-align: justify;
   margin: auto;
 }
