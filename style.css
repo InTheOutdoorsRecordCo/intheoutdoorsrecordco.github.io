@@ -37,7 +37,7 @@ color: purple;
 }
 
 #house, #magazine {
-width: 45vw;
+width: 65vw;
 }
 
 #essay {
@@ -46,7 +46,7 @@ width: 45vw;
   width: 75vw;
   font-size: 14px;
   padding: 2rem;
-  text-align: justify;
+  text-align: left;
   margin: auto;
 }
 
@@ -55,5 +55,9 @@ width: 45vw;
     font-size: 18px;
     text-align: left;
   }
+  #house, #magazine {
+    width: 45vw;
+  }
 
+  
 }
